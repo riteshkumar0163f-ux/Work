@@ -1,0 +1,9 @@
+httpx
+google-play-scraper
+pycryptodome
+protobuf-decoder
+protobuf
+requests
+aiohttp
+PyJWT
+python-telegram-bot>=21.0,<23.0
